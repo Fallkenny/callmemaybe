@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">callmemaybe</string>
+    <string name="fieldValidation">Obrigatório</string>
+    <string name="MODE_CREATE">CREATE</string>
+    <string name="MODE_READONLY">READONLY</string>
+    <string name="MODE_EDIT">EDIT</string>
+</resources>
